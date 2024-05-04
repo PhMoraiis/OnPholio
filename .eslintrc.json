@@ -1,26 +1,11 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": "next/core-web-vitals",
   "rules": {
-    "indent": [
-      "error",
-      2
-    ],
-    "quotes": [
-      "error",
-      "single"
-    ],
-    "semi": [
-      "error",
-      "never"
-    ],
-    "no-unused-vars": [
-      "off"
-    ],
-    "no-console": [
-      0
-    ],
-    "eqeqeq": [
-      "error"
-    ]
+    "indent": ["error", 2],
+    "quotes": ["error", "single"],
+    "semi": ["error", "never"],
+    "no-unused-vars": ["off"],
+    "no-console": [0],
+    "eqeqeq": ["error"]
   }
 }
