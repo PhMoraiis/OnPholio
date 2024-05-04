@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1714790182863,
+      "tag": "0000_red_power_pack",
+      "breakpoints": true
+    }
+  ]
+}
